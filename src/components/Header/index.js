@@ -9,6 +9,8 @@ function Header(){
             <div className='menu'>
                 <Link to="/">Home</Link>
                 <Link to="/sobre">About</Link>
+                <Link to="/informacoes/contato">Contato </Link>
+
             </div>
         </header>
     )
